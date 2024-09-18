@@ -22,7 +22,7 @@ To learn more before you start working with `clutch_dao`, see the following docu
 <img width="960" alt="LASTPAGE" src="https://github.com/user-attachments/assets/27025be6-95f4-4265-a7d4-120e8f518f62">
 
 ## clutch DAO project presentation
-https://drive.google.com/file/d/1Qs4kyvzOLfHYbNAVmw6nMQo9jfADKVRr/view?usp=drive_link
+[https://drive.google.com/file/d/1ZNKgorxZysxfsscKWBb1Zd4PLQXPRfRS/view?usp=sharing]
 
 ## Token deployed on icp mainet [Clutch token]
 The deployed token can be found on the ICP mainnet. For more details, visit the token repository[https://github.com/ndicu5156/CLUTCH_TOKEN.git]. Visit the deployed token in Mainnet https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=qkzcw-6yaaa-aaaap-qhxja-cai.
